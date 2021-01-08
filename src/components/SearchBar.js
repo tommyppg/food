@@ -29,7 +29,8 @@ const styles = StyleSheet.create({
         height: 50,
         borderRadius: 5,
         marginHorizontal: 15,
-        flexDirection: "row" //untuk membuat element2 di dalam kotak ini menjadi sebaris
+        flexDirection: "row", //untuk membuat element2 di dalam kotak ini menjadi sebaris
+        marginBottom: 10
     },
     inputStyle:{
         // borderColor: 'black',
